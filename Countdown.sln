@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown.Core", "Countdown.Core\Countdown.Core.csproj", "{D4303ED6-3179-4D86-8259-19A55ADC3657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown.Core.UnitTests", "Countdown.Core.UnitTests\Countdown.Core.UnitTests.csproj", "{E1129860-1F93-4441-A810-5B838433AEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4303ED6-3179-4D86-8259-19A55ADC3657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4303ED6-3179-4D86-8259-19A55ADC3657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4303ED6-3179-4D86-8259-19A55ADC3657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4303ED6-3179-4D86-8259-19A55ADC3657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1129860-1F93-4441-A810-5B838433AEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1129860-1F93-4441-A810-5B838433AEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1129860-1F93-4441-A810-5B838433AEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1129860-1F93-4441-A810-5B838433AEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF92EEC-FEFC-4D54-8061-1A5787591A2E}
+	EndGlobalSection
+EndGlobal
